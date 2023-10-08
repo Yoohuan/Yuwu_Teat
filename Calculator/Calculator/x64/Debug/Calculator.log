@@ -1,0 +1,5 @@
+﻿  Calculation.c
+  test.c
+D:\C\2023_code\Calculator\Calculator\test.c(21,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Calculator.vcxproj -> D:\C\2023_code\Calculator\x64\Debug\Calculator.exe
