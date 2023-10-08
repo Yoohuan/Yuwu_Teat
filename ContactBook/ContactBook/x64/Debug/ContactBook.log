@@ -1,0 +1,14 @@
+﻿  ContactBook.c
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(26,12): warning C4133: “=”: 从“ContacBook *”到“ContactBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(31,13): warning C4133: “=”: 从“ContacBook *”到“ContactBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(70,11): warning C4133: “=”: 从“ContacBook *”到“ContactBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(81,15): warning C4133: “=”: 从“ContactBook *”到“ContacBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(94,10): warning C4133: “=”: 从“ContacBook *”到“ContactBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(111,14): warning C4133: “=”: 从“ContactBook *”到“ContacBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(131,12): warning C4133: “=”: 从“ContacBook *”到“ContactBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(123,22): warning C4133: “初始化”: 从“ContacBook *”到“ContactBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(194,12): warning C4133: “=”: 从“ContacBook *”到“ContactBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(218,12): warning C4133: “=”: 从“ContacBook *”到“ContactBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(234,12): warning C4133: “=”: 从“ContacBook *”到“ContactBook *”的类型不兼容
+D:\C\2023_code\ContactBook\ContactBook\ContactBook.c(238,13): warning C4133: “=”: 从“ContacBook *”到“ContactBook *”的类型不兼容
+  ContactBook.vcxproj -> D:\C\2023_code\ContactBook\x64\Debug\ContactBook.exe
